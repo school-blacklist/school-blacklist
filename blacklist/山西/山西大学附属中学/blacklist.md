@@ -1,6 +1,6 @@
 # 过多占用学生课余时间
 
-[知乎相关提问]（https://www.zhihu.com/question/318827002）
+<https://www.zhihu.com/question/318827002>
 
 高三的ABCD课表
 
